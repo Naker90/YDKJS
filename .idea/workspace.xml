@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d43886a-1593-40a5-9011-937b9da76bf0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Up And Going/Chapter 1: Into Programming/Practice.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Chapter 1: Into Programming/Practice.js" afterPath="$PROJECT_DIR$/src/Up And Going/Chapter 1: Into Programming/Practice.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Chapter 1: Into Programming/Practice.test.js" afterPath="$PROJECT_DIR$/src/Up And Going/Chapter 1: Into Programming/Practice.test.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,19 +20,19 @@
       <file leaf-file-name="Practice.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Up And Going/Chapter 1: Into Programming/Practice.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="38" column="57" lean-forward="true" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
+            <state relative-caret-position="216">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Practice.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Practice.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Up And Going/Chapter 1: Into Programming/Practice.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="36">
-                <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <first_editor relative-caret-position="54">
+                <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -43,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Practice.test.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Practice.test.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Up And Going/Chapter 1: Into Programming/Practice.test.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="612">
@@ -83,9 +80,9 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/dist/src/Up And Going/Chapter 1: Into Programming/Practice.js" />
-        <option value="$PROJECT_DIR$/src/Up And Going/Chapter 1: Into Programming/Practice.js" />
         <option value="$PROJECT_DIR$/src/Up And Going/Chapter 1: Into Programming/Practice.test.js" />
         <option value="$PROJECT_DIR$/src/Up And Going/Chapter 1: Into Programming/Practice.md" />
+        <option value="$PROJECT_DIR$/src/Up And Going/Chapter 1: Into Programming/Practice.js" />
       </list>
     </option>
   </component>
@@ -282,7 +279,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17187000" />
+    <option name="totallyTimeSpent" value="17414000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -489,6 +486,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Up And Going/Chapter 1: Into Programming/Practice.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Up And Going/Chapter 1: Into Programming/Practice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Up And Going/Chapter 1: Into Programming/Practice.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -496,25 +512,6 @@
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Up And Going/Chapter 1: Into Programming/Practice.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="38" column="57" lean-forward="true" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Up And Going/Chapter 1: Into Programming/Practice.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="36">
-            <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
