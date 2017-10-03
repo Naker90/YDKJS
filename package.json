@@ -1,10 +1,15 @@
 {
-  "name": "You don't know JS",
+  "name": "You-do-not-know-JS",
   "version": "0.0.1",
   "author": "Naker90",
+  "license": "",
   "description": "Exercises proposed in the book YDKJS with Test",
   "dependencies": {
     "mocha": "^4.0.0",
     "chai": "^4.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Naker90/YDKJS.git"
   }
 }
