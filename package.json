@@ -1,0 +1,10 @@
+{
+  "name": "You don't know JS",
+  "version": "0.0.1",
+  "author": "Naker90",
+  "description": "Exercises proposed in the book YDKJS with Test",
+  "dependencies": {
+    "mocha": "^4.0.0",
+    "chai": "^4.1.2"
+  }
+}
