@@ -1,10 +1,10 @@
 {
-  "name": "You-do-not-know-JS",
+  "name": "you-do-not-know-js",
   "version": "0.0.1",
   "author": "Naker90",
-  "license": "",
+  "license": "MIT",
   "description": "Exercises proposed in the book YDKJS with Test",
-  "dependencies": {
+  "devDependencies": {
     "mocha": "^4.0.0",
     "chai": "^4.1.2"
   },
