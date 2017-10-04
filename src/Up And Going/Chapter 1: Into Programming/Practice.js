@@ -28,16 +28,19 @@ class Practice {
               this.buyAccessories();
           }
        }
+        return this._createResponse();
+    }
 
-       let price = this.calculatePrice();
+    _createResponse() {
+        let price = this._calculatePrice();
 
-       let message = "You have bought " + this.countPhones + " phones and "
+        let message = "You have bought " + this.countPhones + " phones and "
             + this.countAccessories + " accessories with a total price of $"
             + String(price);
 
-       return (price <= this.balance)
-           ? message += ". You can afford this purchase."
-           : message += ". You can't afford this purchase."
+        return (price <= this.balance)
+            ? message += ". You can afford this purchase."
+            : message += ". You can't afford this purchase."
     }
 
     calculateTax(number){
@@ -45,11 +48,10 @@ class Practice {
         return number;
     }
 
-    calculatePrice() {
+    _calculatePrice() {
         let phonesPrice = this.countPhones * MOBILE_PRICE;
         let accessoriesPrice = this.countAccessories * ACCESSORIES_PRICE;
         return (this.calculateTax(phonesPrice + accessoriesPrice)).toFixed(2);
-
     }
 }
 
