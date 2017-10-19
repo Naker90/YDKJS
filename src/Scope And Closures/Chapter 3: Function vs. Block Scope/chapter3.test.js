@@ -1,4 +1,5 @@
 let assert = require('chai').assert;
+let fs = require('fs');
 
 describe("Proof of concepts - Chapter 3", () => {
 
