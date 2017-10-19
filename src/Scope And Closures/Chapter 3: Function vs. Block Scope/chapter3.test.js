@@ -1,4 +1,5 @@
 let assert = require('chai').assert;
+let fs = require('fs');
 
 describe("Proof of concepts - Chapter 3", () => {
 
@@ -13,6 +14,17 @@ describe("Proof of concepts - Chapter 3", () => {
         }
 
         assert(doSomething(2), 15);
-    })
+    });
 
+    it('a simple example of scope', () => {
+       var a = 2;
+
+       /*IIFE*/
+        (() => {
+           var a = 3;
+           assert(a, 3);
+       })();
+
+       assert(a, 2);
+    });
 });
