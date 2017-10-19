@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d43886a-1593-40a5-9011-937b9da76bf0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Scope And Closures/Chapter 3: Function vs. Block Scope/Poc.test.js" afterPath="$PROJECT_DIR$/src/Scope And Closures/Chapter 3: Function vs. Block Scope/Poc.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Scope And Closures/Chapter 3: Function vs. Block Scope/chapter3.test.js" afterPath="$PROJECT_DIR$/src/Scope And Closures/Chapter 3: Function vs. Block Scope/chapter3.test.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Poc.test.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Scope And Closures/Chapter 3: Function vs. Block Scope/Poc.test.js">
+      <file leaf-file-name="chapter3.test.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Scope And Closures/Chapter 3: Function vs. Block Scope/chapter3.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+            <state relative-caret-position="18">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -117,6 +118,7 @@
         <option value="$PROJECT_DIR$/src/Scope And Closures/Chapter 2: Lexical scope/Poc.test.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/Scope And Closures/Chapter 3: Function vs. Block Scope/Poc.test.js" />
+        <option value="$PROJECT_DIR$/src/Scope And Closures/Chapter 3: Function vs. Block Scope/chapter3.test.js" />
       </list>
     </option>
   </component>
@@ -369,7 +371,7 @@
       <workItem from="1508105114682" duration="1835000" />
       <workItem from="1508141822004" duration="3538000" />
       <workItem from="1508239436227" duration="652000" />
-      <workItem from="1508406351942" duration="5973000" />
+      <workItem from="1508406351942" duration="6156000" />
     </task>
     <task id="LOCAL-00001" summary="add information in README">
       <created>1507049639611</created>
@@ -385,11 +387,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508408016853</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create test for chapter 3">
+      <created>1508417320344</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1508417320344</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42657000" />
+    <option name="totallyTimeSpent" value="42840000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -450,7 +459,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add information in README" />
     <MESSAGE value="refactor code for not use babel" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor code for not use babel" />
+    <MESSAGE value="create test for chapter 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="create test for chapter 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -687,10 +697,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Scope And Closures/Chapter 3: Function vs. Block Scope/Poc.test.js">
+    <entry file="file://$PROJECT_DIR$/src/Scope And Closures/Chapter 3: Function vs. Block Scope/chapter3.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
