@@ -5,8 +5,8 @@
   "license": "MIT",
   "description": "Exercises proposed in the book YDKJS with Test",
   "scripts": {
-    "js": "babel src/**/*.js --out-dir dist/",
-    "test": "mocha dist/src/**/*.test.js",
+    "transpile": "babel src/**/*.js --out-dir dist/",
+    "test": "mocha src/**/*.test.js",
     "watch:js":"onchange src/**/*.js -- npm run js"
   },
   "devDependencies": {

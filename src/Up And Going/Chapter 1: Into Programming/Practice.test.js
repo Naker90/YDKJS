@@ -1,5 +1,5 @@
-import {assert} from 'chai';
-import Practice from './Practice';
+let assert = require('chai').assert;
+let Practice = require('./Practice');
 
 describe("Practice Should", () => {
 

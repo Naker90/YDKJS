@@ -55,4 +55,4 @@ class Practice {
     }
 }
 
-export default Practice;
+module.exports = Practice;
